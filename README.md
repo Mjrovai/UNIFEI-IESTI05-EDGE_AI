@@ -1,4 +1,4 @@
-# IESTI0 - EDGE AI
+# IESTI05 - EDGE AI
 ## Edge Machine Learning Systems Engineering
 **UPDATED to 2025 - 2nd Semester**
 
