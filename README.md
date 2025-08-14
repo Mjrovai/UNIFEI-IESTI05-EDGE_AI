@@ -5,6 +5,7 @@
 <img src='UNIFEI.jpg'/>
 <figcaption><a href='https://unifei.edu.br/iesti/'>Federal University of Itajuba – UNIFEI - Campus de Itajubá, MG Brasil</a></figcaption>
 <hr>
+
 ## Material 
 - Materials will be uploaded to this repo at weekly basis
   - Slides, Notebooks, Code, and Docs in English 
