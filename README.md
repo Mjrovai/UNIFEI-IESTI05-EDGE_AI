@@ -113,3 +113,9 @@
   real AI applications that run efficiently on resource-constrained edge
   devices, bridging the gap between traditional computer vision and modern
   generative AI technologies.</p>
+
+## Professor:
++ [Marcelo José Rovai](http://lattes.cnpq.br/4234592863079468)
+
+## Supervision and support:
++ [José Alberto Ferreira](http://lattes.cnpq.br/8319509175327154)
