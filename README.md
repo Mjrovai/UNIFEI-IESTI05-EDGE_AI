@@ -7,7 +7,7 @@
 <hr>
 
 ## Material 
-- Materials will be uploaded to this repo at weekly basis
+- Materials will be uploaded to this repo every week.
   - Slides, Notebooks, Code, and Docs in English 
   - Videos in Portuguese
 
