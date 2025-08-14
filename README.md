@@ -59,8 +59,8 @@
 </ul>
 
 ### Part 1: Fixed Function AI  
-+ Class 1 - About the Course and Syllabus [[Slides]](0_Curso_Folder/1-Fixed_Function_AI/Class_01/1-Introduction_to_Edge_MLSys_Eng.pdf) [[Video]](https://youtu.be/HOwoKR1cu3I)
-+ Class 2 - Introduction to TinyML [[Slides]](0_Curse_Folder/1-Fixed_Function_AI/Class_02/2-Introduction_Linux.pdf) [[Docs]](00_Curse_Folder/1-Fixed_Function_AI/Class_02/docs/) [[Video]](https://youtu.be/iiBGlsGSiwY)
++ Class 1 - About the Course and Syllabus [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_01/1-Introduction_to_Edge_MLSys_Eng.pdf) [[Video]](https://youtu.be/HOwoKR1cu3I)
++ Class 2 - Introduction to TinyML [[Slides]](00_Curse_Folder/1-Fixed_Function_AI/Class_02/2-Introduction_Linux.pdf) [[Docs]](00_Curse_Folder/1-Fixed_Function_AI/Class_02/docs/) [[Video]](https://youtu.be/iiBGlsGSiwY)
 
 <h2>Course Summary</h2>
 <p><strong>Edge AI Engineering with Raspberry Pi</strong> is a 15-week
