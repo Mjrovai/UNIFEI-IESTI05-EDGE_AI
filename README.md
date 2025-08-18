@@ -14,7 +14,7 @@
 ### Optional pre-course activities:
 <h3>Suggested Review</h3>
 <p>The students should be familiar with Embedded Machine Learning (TinyML).</p>
-<p><strong>For the students who have not previously attended the IEST01 TinyML
+<p><strong>For the students who have not previously attended the IESTI01 TinyML
     course</strong>, it is suggested to review the following classes before
   starting the IESTI05 course:</p>
 <ul>
