@@ -60,7 +60,7 @@
 
 ### Part 1: Fixed Function AI  
 + Class 1 - About the Course and Syllabus [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_01/1-Introduction_to_Edge_MLSys_Eng.pdf) [[Video]](https://youtu.be/HOwoKR1cu3I)
-+ Class 2 - Introduction to TinyML [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_02/2-Introduction_Linux.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_02/docs/) [[Video]](https://youtu.be/iiBGlsGSiwY)
++ Class 2 - Introduction to Linux [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_02/2-Introduction_Linux.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_02/docs/) [[Video]](https://youtu.be/iiBGlsGSiwY)
 + Class 3 - Raspberry_Pi-Setup_Walkthrough [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_03/3-Raspberry_Pi-Setup_Walkthrough.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_03/docs/) [[Video]](https://youtu.be/uA69zZ67dgk)
 + Class 4 - Setup Python Environment [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_04/4-Setup_Python_env.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_04/docs/) [[Video]](https://youtu.be/FYyjGTEflIo)
 
