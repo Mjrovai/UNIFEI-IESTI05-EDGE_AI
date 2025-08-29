@@ -60,11 +60,11 @@
 
 ### Part 1: Fixed Function AI  
 + Class 1 - Introduction to Edge Ai Course [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_01/1-Introduction_to_Edge_MLSys_Eng.pdf) [[Video]](https://youtu.be/HOwoKR1cu3I) [[Quiz]](https://g.co/gemini/share/8722f12c1199)
-+ Class 2 - Introduction to Linux [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_02/2-Introduction_Linux.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_02/docs/) [[Video]](https://youtu.be/iiBGlsGSiwY)
-+ Class 3 - Raspberry Pi Setup Walkthrough [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_03/3-Raspberry_Pi-Setup_Walkthrough.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_03/docs/) [[Video]](https://youtu.be/uA69zZ67dgk)
-+ Class 4 - Setup Python Environment [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_04/4-Setup_Python_env.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_04/docs/) [[Video]](https://youtu.be/FYyjGTEflIo)
-+ Class 5 - Image Classification: Introduction to TFLite [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_05/5-Image_Class_intro.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_05/docs/) [[Video]](https://youtu.be/DtuTZlTi-tE)
-+ Class 6 - Image Classification Project: Goal & Data [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_06/6-Image_Class_Project_Goal_data.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_06/docs/) [[Video]](https://youtu.be/bWbOoLHU37A)
++ Class 2 - Introduction to Linux [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_02/2-Introduction_Linux.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_02/docs/) [[Video]](https://youtu.be/iiBGlsGSiwY) [[Quiz]](https://g.co/gemini/share/4f12d5d884e7)
++ Class 3 - Raspberry Pi Setup Walkthrough [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_03/3-Raspberry_Pi-Setup_Walkthrough.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_03/docs/) [[Video]](https://youtu.be/uA69zZ67dgk) [[Quiz]](https://g.co/gemini/share/d82e4308dd86)
++ Class 4 - Setup Python Environment [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_04/4-Setup_Python_env.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_04/docs/) [[Video]](https://youtu.be/FYyjGTEflIo) [[Quiz]] (https://g.co/gemini/share/50a1c435acd2)
++ Class 5 - Image Classification: Introduction to TFLite [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_05/5-Image_Class_intro.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_05/docs/) [[Video]](https://youtu.be/DtuTZlTi-tE) [[Quiz]] (https://g.co/gemini/share/1d9d151f4da7)
++ Class 6 - Image Classification Project: Goal & Data [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_06/6-Image_Class_Project_Goal_data.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_06/docs/) [[Video]](https://youtu.be/bWbOoLHU37A) [[Quiz]] (https://g.co/gemini/share/78ea4127fada)
 
 <h2>Course Summary</h2>
 <p><strong>Edge AI Engineering with Raspberry Pi</strong> is a 15-week
