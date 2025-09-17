@@ -58,7 +58,7 @@
       href="https://youtu.be/x439ha4gg2g" rel="nofollow">[Video]</a></li>
 </ul>
 
-### Part 1: Fixed Function AI  
+### Part 1: Fixed Function AI (Reactive)
 + Class 1 - Introduction to Edge Ai Course [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_01/1-Introduction_to_Edge_MLSys_Eng.pdf) [[Video]](https://youtu.be/HOwoKR1cu3I) [[Quiz]](https://g.co/gemini/share/8722f12c1199)
 + Class 2 - Introduction to Linux [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_02/2-Introduction_Linux.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_02/docs/) [[Video]](https://youtu.be/iiBGlsGSiwY) [[Quiz]](https://g.co/gemini/share/4f12d5d884e7) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/setup/setup.html)
 + Class 3 - Raspberry Pi Setup Walkthrough [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_03/3-Raspberry_Pi-Setup_Walkthrough.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_03/docs/) [[Video]](https://youtu.be/uA69zZ67dgk) [[Quiz]](https://g.co/gemini/share/d82e4308dd86)
@@ -69,8 +69,12 @@
 + Class 8 - Object Detection: Fundamentals [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_08/8-Object_Detection_intro.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_08/) [[Video]](https://youtu.be/hj05CsC1vus) [[Quiz]](https://g.co/gemini/share/d06d920a2c01) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/object_detection/object_detection_fundamentals.html)
 + Class 9 - Object Detection Project: Goal, Data & Labeling [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_09/9-Obj_Detect_Project_goal.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_09/docs/) [[Video]](https://youtu.be/iNWqv4d6Mkg) [[Quiz]](https://g.co/gemini/share/69131178aa06) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/object_detection/custom_object_detection.html)
 + Class 10 - Object Detection Project: Training, Test & Deploy - EI [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_10/10-Obj_Detect_Project_Train_Deploy.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_10/) [[Video]](https://youtu.be/j79qH53lg8I) [[Quiz]](https://g.co/gemini/share/68c549f8d4f1) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/object_detection/custom_object_detection.html#training-an-ssd-mobilenet-model-on-edge-impulse-studio)
-+ Class 11 - Object Detection with YOLO: Fundamentals [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_11/11-YOLO_Object_Detection_intro.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_11/Docs/) [[Video]]() [[Quiz]](https://g.co/gemini/share/803249c60816) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/object_detection/cv_yolo.html)
-+ Class 12 - Object Detection Project: Train & Deploy – YOLO [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_12/12-yolo_Obj_Detect_Project_Train_Deploy.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_12/Docs/) [[Video]]() [[Quiz]](https://g.co/gemini/share/478dc6e3a3a9) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/object_detection/cv_yolo.html#training-yolo-on-a-customized-dataset)
++ Class 11 - Object Detection with YOLO: Fundamentals [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_11/11-YOLO_Object_Detection_intro.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_11/Docs/) [[Video]](https://youtu.be/ebNlmUM8yTc) [[Quiz]](https://g.co/gemini/share/803249c60816) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/object_detection/cv_yolo.html)
++ Class 12 - Object Detection Project: Train & Deploy – YOLO [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_12/12-yolo_Obj_Detect_Project_Train_Deploy.pdf) [[Docs]](00_Curso_Folder/1-Fixed_Function_AI/Class_12/Docs/) [[Video]](https://youtu.be/ATmj004ykPM) [[Quiz]](https://g.co/gemini/share/478dc6e3a3a9) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/object_detection/cv_yolo.html#training-yolo-on-a-customized-dataset)
++ Class 13 - Bee Counting Project: Dataset, Train & Deploy – YOLO
++ Class 14 - Bee Counting Project: Linux implementation 
+
+### Part 2: Generative AI (Proactive)  
 
 <h2>Course Summary</h2>
 <p><strong>Edge AI Engineering with Raspberry Pi</strong> is a 15-week
