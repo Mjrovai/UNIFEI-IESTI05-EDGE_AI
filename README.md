@@ -75,6 +75,11 @@
 + Class 14 - Bee Counting Project: Embedded Linux implementation (Guilherme Fernandes) [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_14/14-Embedded_Linux_Implem_Guilherme.pdf) [[Docs]](https://github.com/Mjrovai/Bee-Counting-Project) [[Video]](https://youtu.be/fZSM5RJUt9o)
 
 ### Part 2: Generative AI (Proactive)  
++ Class 15 - Text Generation – RNN: The VerneBot [[Slides]](00_Curso_Folder/2-Generative_AI/Class_15/15-Text_Generation_verne_bot.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_15/Docs/) [[Video]]() [[Quiz]]() [[Book]]()
++ Class 16a -  [[Slides]](00_Curso_Folder/2-Generative_AI/Class_15/.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_15/Docs/) [[Video]]() [[Quiz]]() [[Book]]()
++ Class 16b -  [[Slides]](00_Curso_Folder/2-Generative_AI/Class_15/.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_15/Docs/) [[Video]]() [[Quiz]]() [[Book]]()
+
+  
 
 <h2>Course Summary</h2>
 <p><strong>Edge AI Engineering with Raspberry Pi</strong> is a 15-week
