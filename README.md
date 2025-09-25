@@ -75,9 +75,9 @@
 + Class 14 - Bee Counting Project: Embedded Linux implementation (Guilherme Fernandes) [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_14/14-Embedded_Linux_Implem_Guilherme.pdf) [[Docs]](https://github.com/Mjrovai/Bee-Counting-Project) [[Video]](https://youtu.be/fZSM5RJUt9o)
 
 ### Part 2: Generative AI (Proactive)  
-+ Class 15 - Text Generation – RNN: The VerneBot [[Slides]](00_Curso_Folder/2-Generative_AI/Class_15/15-Text_Generation_verne_bot.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_15/Docs/) [[Video]](https://youtu.be/MmdZOgvwABE) [[Quiz]]() [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/rnn-verne/rnn-verne.html)
-+ Class 16a - Raspberry Pi 5 Setup [[Slides]](00_Curso_Folder/2-Generative_AI/Class_16/16a-Rasp_5_setup.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_16/Docs/) [[Video]](https://youtu.be/SNWBmtqfQF4) [[Quiz]]() [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/setup/setup.html)
-+ Class 16b - Generative AI at the Edge - SLM (Small Language Models) [[Slides]](00_Curso_Folder/2-Generative_AI/Class_16/16b-GenAI_at_the_Edge-SLMs.pdf) [[Video]](https://youtu.be/cl5RMgo7WLo) [[Quiz]]() [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/llm/llm.html)
++ Class 15 - Text Generation – RNN: The VerneBot [[Slides]](00_Curso_Folder/2-Generative_AI/Class_15/15-Text_Generation_verne_bot.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_15/Docs/) [[Video]](https://youtu.be/MmdZOgvwABE) [[Quiz]](https://g.co/gemini/share/cc0a2fef8c06) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/rnn-verne/rnn-verne.html)
++ Class 16a - Raspberry Pi 5 Setup [[Slides]](00_Curso_Folder/2-Generative_AI/Class_16/16a-Rasp_5_setup.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_16/Docs/) [[Video]](https://youtu.be/SNWBmtqfQF4) [[Quiz]](https://g.co/gemini/share/377a77663bc8) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/setup/setup.html)
++ Class 16b - Generative AI at the Edge - SLM (Small Language Models) [[Slides]](00_Curso_Folder/2-Generative_AI/Class_16/16b-GenAI_at_the_Edge-SLMs.pdf) [[Video]](https://youtu.be/cl5RMgo7WLo) [[Quiz]](https://g.co/gemini/share/e81bd047746c) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/llm/llm.html)
 
   
 
