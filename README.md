@@ -75,9 +75,9 @@
 + Class 14 - Bee Counting Project: Embedded Linux implementation (Guilherme Fernandes) [[Slides]](00_Curso_Folder/1-Fixed_Function_AI/Class_14/14-Embedded_Linux_Implem_Guilherme.pdf) [[Docs]](https://github.com/Mjrovai/Bee-Counting-Project) [[Video]](https://youtu.be/fZSM5RJUt9o)
 
 ### Part 2: Generative AI (Proactive)  
-+ Class 15 - Text Generation – RNN: The VerneBot [[Slides]](00_Curso_Folder/2-Generative_AI/Class_15/15-Text_Generation_verne_bot.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_15/Docs/) [[Video]]() [[Quiz]]() [[Book]]()
-+ Class 16a -  [[Slides]](00_Curso_Folder/2-Generative_AI/Class_15/.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_15/Docs/) [[Video]]() [[Quiz]]() [[Book]]()
-+ Class 16b -  [[Slides]](00_Curso_Folder/2-Generative_AI/Class_15/.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_15/Docs/) [[Video]]() [[Quiz]]() [[Book]]()
++ Class 15 - Text Generation – RNN: The VerneBot [[Slides]](00_Curso_Folder/2-Generative_AI/Class_15/15-Text_Generation_verne_bot.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_15/Docs/) [[Video]](https://youtu.be/MmdZOgvwABE) [[Quiz]]() [[Book]](file:///Users/marcelo_rovai/Dropbox/2025/01-e_books/EdgeML_Made_Easy_Raspberry_Pi_ebook/_book/raspi/rnn-verne/rnn-verne.html)
++ Class 16a - Raspberry Pi 5 Setup [[Slides]](00_Curso_Folder/2-Generative_AI/Class_16/16a-Rasp_5_setup.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_16/Docs/) [[Video]](https://youtu.be/SNWBmtqfQF4) [[Quiz]]() [[Book]](file:///Users/marcelo_rovai/Dropbox/2025/01-e_books/EdgeML_Made_Easy_Raspberry_Pi_ebook/_book/raspi/setup/setup.html)
++ Class 16b - Generative AI at the Edge - SLM (Small Language Models) [[Slides]](00_Curso_Folder/2-Generative_AI/Class_16/16b-GenAI_at_the_Edge-SLMs.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_16/Docs/) [[Video]](https://youtu.be/cl5RMgo7WLo) [[Quiz]]() [[Book]](file:///Users/marcelo_rovai/Dropbox/2025/01-e_books/EdgeML_Made_Easy_Raspberry_Pi_ebook/_book/raspi/llm/llm.html)
 
   
 
