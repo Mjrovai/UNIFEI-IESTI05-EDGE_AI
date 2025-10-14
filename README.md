@@ -79,9 +79,8 @@
 + Class 16a - Raspberry Pi 5 Setup [[Slides]](00_Curso_Folder/2-Generative_AI/Class_16/16a-Rasp_5_setup.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_16/Docs/) [[Video]](https://youtu.be/SNWBmtqfQF4) [[Quiz]](https://g.co/gemini/share/377a77663bc8) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/setup/setup.html)
 + Class 16b - Generative AI at the Edge - SLM (Small Language Models) [[Slides]](00_Curso_Folder/2-Generative_AI/Class_16/16b-GenAI_at_the_Edge-SLMs.pdf) [[Video]](https://youtu.be/cl5RMgo7WLo) [[Quiz]](https://g.co/gemini/share/e81bd047746c) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/llm/llm.html)
 + Class 17 - SLM with Ollama Review [[Slides]](00_Curso_Folder/2-Generative_AI/Class_17/17-SLM_Ollama_Review.pdf) [[Video]]() [[Quiz]]() [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/llm/llm.html)
-+ Class 18 - Ollama with Python [[Slides]](00_Curso_Folder/2-Generative_AI/Class_18/18-Ollama_Python.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_18/Docs/) [[Video]]() [[Quiz]]() [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/llm/llm.html)
++ Class 18 - Ollama with Python [[Slides]](00_Curso_Folder/2-Generative_AI/Class_18/18-Ollama_Python.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_18/Docs/) [[Video]]() [[Quiz]]() [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/llm/llm.html#ollama-python-library)
   
-
 <h2>Course Summary</h2>
 <p><strong>Edge AI Engineering with Raspberry Pi</strong> is a 15-week
   undergraduate course designed to teach students how to implement AI systems on
