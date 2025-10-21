@@ -81,8 +81,7 @@
 + Class 17 - SLM with Ollama Review [[Slides]](00_Curso_Folder/2-Generative_AI/Class_17/17-SLM_Ollama_Review.pdf) [[Video]](https://youtu.be/OfbG0o-YuCI) [[Quiz]]() [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/llm/llm.html)
 + Class 18 - Ollama with Python [[Slides]](00_Curso_Folder/2-Generative_AI/Class_18/18-Ollama_Python.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_18/Docs/) [[Video]](https://youtu.be/U4rgwxZbrbA) [[Quiz]]() [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/llm/llm.html#ollama-python-library)
 + Class 19 - SLM: Optimization Techniques - Function (tools) Calling [[Slides]](00_Curso_Folder/2-Generative_AI/Class_19/19-SLM-Optimization_Techniques-Function_Calling.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_19/Docs/) [[Video]]() [[Quiz]]() [[Book]]()
-+ Class 20 - SLM: Optimization Techniques - RAG [[Slides]](00_Curso_Folder/2-Generative_AI/Class_20/+ Class 20 - SLM: Optimization Techniques - RAG [[Slides]](00_Curso_Folder/2-Generative_AI/Class_19/19-SLM-Optimization_Techniques-Function_Calling.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_19/Docs/) [[Video]]() [[Quiz]]() [[Book]]()
-.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_20/Docs/RAG/) [[Video]]() [[Quiz]]() [[Book]]()
++ Class 20 - SLM: Optimization Techniques - RAG [[Slides]](00_Curso_Folder/2-Generative_AI/Class_20/20-SLM-Optimization_Techniques-RAG.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_20/Docs/RAG/) [[Video]]() [[Quiz]]() [[Book]]()
 + Class 20a - SLM: Optimization Techniques - Agents [[Slides]](00_Curso_Folder/2-Generative_AI/Class_20/20a-SLM-Enhanced_Techincs-Agents.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_19/Docs/Agents) [[Video]]() [[Quiz]]() [[Book]]()
   
 <h2>Course Summary</h2>
