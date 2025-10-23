@@ -83,6 +83,15 @@
 + Class 19 - SLM: Optimization Techniques - Function (tools) Calling [[Slides]](00_Curso_Folder/2-Generative_AI/Class_19/19-SLM-Optimization_Techniques-Function_Calling.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_19/Docs/) [[Video]](https://youtu.be/kCN-kT9adoI) [[Quiz]]() [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/llm/slm_opt_tech.html)
 + Class 20 - SLM: Optimization Techniques - RAG [[Slides]](00_Curso_Folder/2-Generative_AI/Class_20/20-SLM-Optimization_Techniques-RAG.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_20/Docs/RAG/) [[Video]](https://youtu.be/VENvoz6XvlU) [[Quiz]]() [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/llm/slm_opt_tech.html#retrievel-augmentation-generation-rag)
 + Class 20a - SLM: Optimization Techniques - Agents [[Slides]](00_Curso_Folder/2-Generative_AI/Class_20/20a-SLM-Enhanced_Techincs-Agents.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_20/Docs/Agents) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/advancing_adgeai/adv_edgeai.html#building-agents-with-slms)
+
+### Project 1 
+- Detecção de Câncer Cervical [[Report]] [[Video]](https://youtu.be/pn8krXVcun4)
+- Coin Counting [[Report]]() [[Video]](https://youtu.be/QrxeviMB0zs)
+- Fruit Quality Assessments [[Report]]() [[Video]](https://youtu.be/FBs_KgZDQ7U)
+- Jokenpo [[Report]]() [[Video]](https://youtu.be/MlHBOPmA4jI)
+- Plant Disease Classification [[Report]]() [[Video]](https://youtu.be/qk00ZH3J9IQ)
+- MediTrack [[Report]]()
+
   
 <h2>Course Summary</h2>
 <p><strong>Edge AI Engineering with Raspberry Pi</strong> is a 15-week
