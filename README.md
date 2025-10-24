@@ -84,14 +84,14 @@
 + Class 20 - SLM: Optimization Techniques - RAG [[Slides]](00_Curso_Folder/2-Generative_AI/Class_20/20-SLM-Optimization_Techniques-RAG.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_20/Docs/RAG/) [[Video]](https://youtu.be/VENvoz6XvlU) [[Quiz]]() [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/llm/slm_opt_tech.html#retrievel-augmentation-generation-rag)
 + Class 20a - SLM: Optimization Techniques - Agents [[Slides]](00_Curso_Folder/2-Generative_AI/Class_20/20a-SLM-Enhanced_Techincs-Agents.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_20/Docs/Agents) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/advancing_adgeai/adv_edgeai.html#building-agents-with-slms)
 
-### Project Part 1 
-- [[Assignment]](00_Curso_Folder/3-Project_Part_1/Part_1_Project_Assignment.pdf)
-- Detecção de Câncer Cervical [[Report]](00_Curso_Folder/3-Project_Part_1/Cancer.pdf) [[Video]](https://youtu.be/pn8krXVcun4)
-- Coin Counting [[Report]](00_Curso_Folder/3-Project_Part_1/Coin.pdf) [[Video]](https://youtu.be/QrxeviMB0zs)
-- Fruit Quality Assessments [[Report]](00_Curso_Folder/3-Project_Part_1/Fruit.pdf) [[Video]](https://youtu.be/FBs_KgZDQ7U)
-- Jokenpo [[Report]](00_Curso_Folder/3-Project_Part_1/Jokenpo.pdf) [[Video]](https://youtu.be/MlHBOPmA4jI)
-- Plant Disease Classification [[Report]](00_Curso_Folder/3-Project_Part_1/Plant.pdf) [[Video]](https://youtu.be/qk00ZH3J9IQ)
-- MediTrack [[Report]](00_Curso_Folder/3-Project_Part_1/Meditrack.pdf)
+### Projects 
+- #### Part 1 [[Assignment]](00_Curso_Folder/3-Project_Part_1/Part_1_Project_Assignment.pdf)
+  - Detecção de Câncer Cervical [[Report]](00_Curso_Folder/3-Project_Part_1/Cancer.pdf) [[Video]](https://youtu.be/pn8krXVcun4)
+  - Coin Counting [[Report]](00_Curso_Folder/3-Project_Part_1/Coin.pdf) [[Video]](https://youtu.be/QrxeviMB0zs)
+  - Fruit Quality Assessments [[Report]](00_Curso_Folder/3-Project_Part_1/Fruit.pdf) [[GitHub]](https://github.com/12FlyBreads/fruit-quality-assessment) [[Video]](https://youtu.be/FBs_KgZDQ7U)
+  - Jokenpo [[Report]](00_Curso_Folder/3-Project_Part_1/Jokenpo.pdf) [[Video]](https://youtu.be/MlHBOPmA4jI)
+  - Plant Disease Classification [[Report]](00_Curso_Folder/3-Project_Part_1/Plant.pdf) [[Video]](https://youtu.be/qk00ZH3J9IQ)
+  - MediTrack [[Report]](00_Curso_Folder/3-Project_Part_1/Meditrack.pdf) [[Video]](https://youtu.be/uq4puh27BG0) [[Demo]](https://youtu.be/z1Gl9Ric4Ug)
 
   
 <h2>Course Summary</h2>
