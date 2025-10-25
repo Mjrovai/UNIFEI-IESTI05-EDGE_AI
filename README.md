@@ -92,7 +92,7 @@
   - Jokenpo [[Report]](00_Curso_Folder/3-Project_Part_1/Jokenpo.pdf) [[Video]](https://youtu.be/MlHBOPmA4jI)
   - Plant Disease Classification [[Report]](00_Curso_Folder/3-Project_Part_1/Plant.pdf) [[Video]](https://youtu.be/qk00ZH3J9IQ)
   - MediTrack [[Report]](00_Curso_Folder/3-Project_Part_1/Meditrack.pdf) [[Video]](https://youtu.be/uq4puh27BG0) [[Demo]](https://youtu.be/z1Gl9Ric4Ug)
-
+  - Detecção e Classificação de Carros e Placas de Trânsito [[Report]](00_Curso_Folder/3-Project_Part_1/Carro.pdf)[[GitHub]](https://github.com/ricardomdcj/IESTI05---Deteccao-e-Classificacao-de-Carros-e-Placas-de-Transito-com-FOMO-e-YOLO) [[Video]](https://youtu.be/LSTc_Py2tmI)
   
 <h2>Course Summary</h2>
 <p><strong>Edge AI Engineering with Raspberry Pi</strong> is a 15-week
