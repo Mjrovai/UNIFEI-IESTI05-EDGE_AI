@@ -84,6 +84,7 @@
 + Class 20 - SLM: Optimization Techniques - RAG [[Slides]](00_Curso_Folder/2-Generative_AI/Class_20/20-SLM-Optimization_Techniques-RAG.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_20/Docs/RAG/) [[Video]](https://youtu.be/VENvoz6XvlU) [[Quiz]]() [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/llm/slm_opt_tech.html#retrievel-augmentation-generation-rag)
 + Class 20a - SLM: Optimization Techniques - Agents [[Slides]](00_Curso_Folder/2-Generative_AI/Class_20/20a-SLM-Enhanced_Techincs-Agents.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_20/Docs/Agents) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/advancing_adgeai/adv_edgeai.html#building-agents-with-slms)
 + Class 21 - GPIO: Physical Computing [[Slides]](00_Curso_Folder/2-Generative_AI/Class_21/21-GPIO-Physical_Computing.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_21/Docs/) [[Video]]() [[Quiz]]() [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/physical_comp/RPi_Physical_Computing.html)
++ Class 22 - SLMs_for_IoT_Control [[Slides]](00_Curso_Folder/2-Generative_AI/Class_22/22-SLMs_for_IoT_Control) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_22/Docs/) [[Video]]() [[Quiz]]() [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/iot/slm_iot.html)
 
 ### Projects 
 - #### Part 1 [[Assignment]](00_Curso_Folder/3-Project_Part_1/Part_1_Project_Assignment.pdf)
