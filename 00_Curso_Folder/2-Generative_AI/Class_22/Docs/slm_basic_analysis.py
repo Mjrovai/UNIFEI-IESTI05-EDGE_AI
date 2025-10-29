@@ -28,7 +28,7 @@ prompt = f"""
 
 """
 
-MODEL = 'llama3.2:1b'
+MODEL = 'llama3.2:3b'
 PROMPT = prompt
 
 response = ollama.generate(
