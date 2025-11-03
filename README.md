@@ -96,7 +96,7 @@
   - MediTrack [[Report]](00_Curso_Folder/3-Project_Part_1/Meditrack.pdf) [[Video]](https://youtu.be/uq4puh27BG0) [[Demo]](https://youtu.be/z1Gl9Ric4Ug)
   - Detecção e Classificação de Carros e Placas de Trânsito [[Report]](00_Curso_Folder/3-Project_Part_1/Carro.pdf) [[GitHub]](https://github.com/ricardomdcj/IESTI05---Deteccao-e-Classificacao-de-Carros-e-Placas-de-Transito-com-FOMO-e-YOLO) [[Video]](https://youtu.be/LSTc_Py2tmI)
 
-- #### Part 2 [[Assignment]](00_Curso_Folder/3-Project_Part_2/Part_2_Project_Assignment.pdf)
+- #### Part 2 [[Assignment]](00_Curso_Folder/3-Project-Part_2/Part_2_Project_Assignment.pdf)
   - To be delivered on December 7th
   
 <h2>Course Summary</h2>
