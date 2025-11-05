@@ -91,7 +91,7 @@
 ### Projects 
 - #### Part 1 [[Assignment]](00_Curso_Folder/3-Project_Part_1/Part_1_Project_Assignment.pdf)
   - Detecção de Câncer Cervical [[Report]](00_Curso_Folder/3-Project_Part_1/Cancer.pdf) [[Video]](https://youtu.be/pn8krXVcun4)
-  - Coin Counting [[Report]](00_Curso_Folder/3-Project_Part_1/Coin.pdf) [[Video]](https://youtu.be/QrxeviMB0zs)
+  - Coin Counting [[Report]](00_Curso_Folder/3-Project_Part_1/Coin.pdf) [[GitHub]](https://github.com/Roldao-Neto/Coin-Counting-FOMO) [[Video]](https://youtu.be/QrxeviMB0zs)
   - Fruit Quality Assessments [[Report]](00_Curso_Folder/3-Project_Part_1/Fruit.pdf) [[GitHub]](https://github.com/12FlyBreads/fruit-quality-assessment) [[Video]](https://youtu.be/FBs_KgZDQ7U)
   - Jokenpo [[Report]](00_Curso_Folder/3-Project_Part_1/Jokenpo.pdf) [[Video]](https://youtu.be/MlHBOPmA4jI)
   - Plant Disease Classification [[Report]](00_Curso_Folder/3-Project_Part_1/Plant.pdf) [[Video]](https://youtu.be/qk00ZH3J9IQ)
