@@ -89,7 +89,7 @@
 + Class 24 - Application of Natural Language Models in IoT Edge Devices - Hardware/System View [[Slides]](00_Curso_Folder/2-Generative_AI/Class_24/24-Joao_Pedro.pdf) [[Video]](https://youtu.be/iNT4YWtvXtE)
 
 ### Projects 
-- #### Part 1 EdgeAI [[Assignment]](00_Curso_Folder/3-Project_Part_1/Part_1_Project_Assignment.pdf)
+- #### Part 1: Fixed Function AI [[Assignment]](00_Curso_Folder/3-Project_Part_1/Part_1_Project_Assignment.pdf)
   - Detecção de Câncer Cervical [[Report]](00_Curso_Folder/3-Project_Part_1/Cancer.pdf) [[Video]](https://youtu.be/pn8krXVcun4)
   - Coin Counting [[Report]](00_Curso_Folder/3-Project_Part_1/Coin.pdf) [[GitHub]](https://github.com/Roldao-Neto/Coin-Counting-FOMO) [[Video]](https://youtu.be/QrxeviMB0zs)
   - Fruit Quality Assessments [[Report]](00_Curso_Folder/3-Project_Part_1/Fruit.pdf) [[GitHub]](https://github.com/12FlyBreads/fruit-quality-assessment) [[Video]](https://youtu.be/FBs_KgZDQ7U)
@@ -98,12 +98,12 @@
   - MediTrack [[Report]](00_Curso_Folder/3-Project_Part_1/Meditrack.pdf) [[Video]](https://youtu.be/uq4puh27BG0) [[Demo]](https://youtu.be/z1Gl9Ric4Ug)
   - Detecção e Classificação de Carros e Placas de Trânsito [[Report]](00_Curso_Folder/3-Project_Part_1/Carro.pdf) [[GitHub]](https://github.com/ricardomdcj/IESTI05---Deteccao-e-Classificacao-de-Carros-e-Placas-de-Transito-com-FOMO-e-YOLO) [[Video]](https://youtu.be/LSTc_Py2tmI)
 
-- #### Part 2 - GenAI [[Assignment]](00_Curso_Folder/3-Project-Part_2/Part_2_Project_Assignment.pdf) [[Video]](https://youtu.be/s0UFAPf7qrs)
-  - AI Garden Assistant [[Report]](00_Curso_Folder/3-Project-Part_2/AI_Garden_Assistant.pdf) [[GitHub]]() [[Video]](https://youtu.be/MsGX5ijmxpE)
-  - Climate Control [[Report]](00_Curso_Folder/3-Project-Part_2/Climate_Control.pdf) [[GitHub]]() [[Video]](https://youtu.be/Vh4cx3o_dPU)
+- #### Part 2: GenAI [[Assignment]](00_Curso_Folder/3-Project-Part_2/Part_2_Project_Assignment.pdf) [[Video]](https://youtu.be/s0UFAPf7qrs)
+  - AI Garden Assistant [[Report]](00_Curso_Folder/3-Project-Part_2/AI_Garden_Assistant.pdf) [[GitHub]](https://github.com/lucianosantos23/ai-garden-assistant) [[Video]](https://youtu.be/MsGX5ijmxpE)
+  - Climate Control [[Report]](00_Curso_Folder/3-Project-Part_2/Climate_Control.pdf) [[GitHub]](https://github.com/12FlyBreads/climate-control-slm.git) [[Video]](https://youtu.be/Vh4cx3o_dPU)
   - Lixeira Inteligente [[Report]](00_Curso_Folder/3-Project-Part_2/Lixeira_Inteligente.pdf) [[GitHub]]() [[Video]](https://youtu.be/XI91J7iY-YM)
   - PlantTalker [[Report]](00_Curso_Folder/3-Project-Part_2/PlantTalker.pdf) [[GitHub]]() [[Video]](https://youtu.be/FWOmOAnbUiE)
-  - Smart Inspection [[Report]](00_Curso_Folder/3-Project-Part_2/Smart_Inspection.pdf) [[GitHub]]() [[Video]](https://youtu.be/_fR4MlWrTJw)
+  - Smart Inspection [[Report]](00_Curso_Folder/3-Project-Part_2/Smart_Inspection.pdf) [[GitHub]](https://github.com/Eduard0Castro/smart_inspection) [[Video]](https://youtu.be/_fR4MlWrTJw)
   - Voice Assistant [[Report]](00_Curso_Folder/3-Project-Part_2/Voice_Assistant.pdf) [[GitHub]]() [[Video]](https://youtu.be/6x9jBKmnGuE)
  
   
