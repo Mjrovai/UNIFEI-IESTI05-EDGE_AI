@@ -99,12 +99,12 @@
   - Detecção e Classificação de Carros e Placas de Trânsito [[Report]](00_Curso_Folder/3-Project_Part_1/Carro.pdf) [[GitHub]](https://github.com/ricardomdcj/IESTI05---Deteccao-e-Classificacao-de-Carros-e-Placas-de-Transito-com-FOMO-e-YOLO) [[Video]](https://youtu.be/LSTc_Py2tmI)
 
 - #### Part 2 - GenAI [[Assignment]](00_Curso_Folder/3-Project-Part_2/Part_2_Project_Assignment.pdf) [[Video]](https://youtu.be/s0UFAPf7qrs)
-  - AI Garden Assistant [[Report]](00_Curso_Folder/3-Project_Part_2/AI_Garden_Assistant.pdf) [[GitHub]]() [[Video]]()
-  - Climate Control [[Report]](00_Curso_Folder/3-Project_Part_2/Climate_Control.pdf) [[GitHub]]() [[Video]]()
-  - Lixeira Inteligente [[Report]](00_Curso_Folder/3-Project_Part_2/Lixeira_Inteligente.pdf) [[GitHub]]() [[Video]]()
-  - PlantTalker [[Report]](00_Curso_Folder/3-Project_Part_2/PlantTalker.pdf) [[GitHub]]() [[Video]]()
-  - Smart Inspection [[Report]](00_Curso_Folder/3-Project_Part_2/Smart_Inspection.pdf) [[GitHub]]() [[Video]]()
-  - Voice Assistant [[Report]](00_Curso_Folder/3-Project_Part_2/Voice_Assistant.pdf) [[GitHub]]() [[Video]]()
+  - AI Garden Assistant [[Report]](00_Curso_Folder/3-Project-Part_2/AI_Garden_Assistant.pdf) [[GitHub]]() [[Video]]()
+  - Climate Control [[Report]](00_Curso_Folder/3-Project-Part_2/Climate_Control.pdf) [[GitHub]]() [[Video]]()
+  - Lixeira Inteligente [[Report]](00_Curso_Folder/3-Project-Part_2/Lixeira_Inteligente.pdf) [[GitHub]]() [[Video]]()
+  - PlantTalker [[Report]](00_Curso_Folder/3-Project-Part_2/PlantTalker.pdf) [[GitHub]]() [[Video]]()
+  - Smart Inspection [[Report]](00_Curso_Folder/3-Project-Part_2/Smart_Inspection.pdf) [[GitHub]]() [[Video]]()
+  - Voice Assistant [[Report]](00_Curso_Folder/3-Project-Part_2/Voice_Assistant.pdf) [[GitHub]]() [[Video]]()
  
   
   
