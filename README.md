@@ -105,7 +105,7 @@
   - PlantTalker [[Report]](00_Curso_Folder/3-Project-Part_2/PlantTalker.pdf) [[GitHub]]() [[Video]](https://youtu.be/FWOmOAnbUiE)
   - Smart Inspection [[Report]](00_Curso_Folder/3-Project-Part_2/Smart_Inspection.pdf) [[GitHub]](https://github.com/Eduard0Castro/smart_inspection) [[Video]](https://youtu.be/_fR4MlWrTJw)
   - Voice Assistant [[Report]](00_Curso_Folder/3-Project-Part_2/Voice_Assistant.pdf) [[GitHub]]() [[Video]](https://youtu.be/6x9jBKmnGuE)
-  - Assistente Doméstico Baseado em IA Generativa na Borda [[Report]](00_Curso_Folder/3-Project-Part_2/Delta-Assistente_Domestico.pdf) [[GitHub]](https://github.com/ricardomdcj/IESTI05-Projeto-DELTA) [[Video]](https://www.youtube.com/watch?v=dKtQXxFgpXw)
+  - Delta: Assistente Doméstico [[Report]](00_Curso_Folder/3-Project-Part_2/Delta-Assistente_Domestico.pdf) [[GitHub]](https://github.com/ricardomdcj/IESTI05-Projeto-DELTA) [[Video]](https://www.youtube.com/watch?v=dKtQXxFgpXw)
  
   
   
