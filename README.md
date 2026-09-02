@@ -76,8 +76,24 @@
 
 ### Part 2: Generative AI (Proactive)  
 + Class 15 - Text Generation – RNN: The VerneBot [[Slides]](00_Curso_Folder/2-Generative_AI/Class_15/15-Text_Generation_verne_bot.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_15/Docs/) [[Video]](https://youtu.be/MmdZOgvwABE) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/rnn-verne/rnn-verne.html)
+
+#### Arduino UNO Q
++ Class 16 - How Generative AI works - SLMs [[Slides]]() [[Video]]() [[Book]](https://mjrovai.github.io/genai-uno-q/content/foundations/foundations.html)
++ Class 17 - SLM at the Edge & Arduino UNO Q: the dual-brain architecture [[Slides]]() [[Video]]() [[Book]](https://mjrovai.github.io/genai-uno-q/content/localinf/localinf.html)
++ Class 18 - Arduino UNO Q - Setup walkthrough [[Slides]]() [[Video]]() [[Book]](https://mjrovai.github.io/genai-uno-q/content/setup/setup.html)
++ Class 19 - Running SLMs on the UNO Q [[Slides]]() [[Video]]() [[Book]](https://mjrovai.github.io/genai-uno-q/content/genai/genai.html)
++ Class 20 - Benchmarking and model selection [[Slides]]() [[Video]]() [[Book]]()
++ Class 21 - Talking to the model from Python [[Slides]]() [[Video]]() [[Book]]()
++ Class 22 - Multimodal AI at the Edge [[Slides]]() [[Video]]() [[Book]](https://mjrovai.github.io/genai-uno-q/content/multimodai/multimodai.html)
++ Class 23 - SLM optimization techniques [[Slides]]() [[Video]]() [[Book]](https://mjrovai.github.io/genai-uno-q/content/agenticai/agenticai.html)
++ Class 24 - Building an agent on the UNO Q [[Slides]]() [[Video]]() [[Book]](https://mjrovai.github.io/genai-uno-q/content/agenticai/agenticai.html#designing-the-tool-set)
++ Class 25 - GenAI meets the real world: Physical AI and Bridge RPC (MPU ↔ MCU) [[Slides]]() [[Video]]() [[Book]](https://mjrovai.github.io/genai-uno-q/content/physicalai/physicalai.html)
++ Class 26 - Physical AI project [[Slides]]() [[Video]]() [[Book]]()
++ Class 27 - RAG at the Edge - [[Slides]]() [[Video]]() [[Book]]()
++ Class 28 - Hands-on: RAG application on the UNO Q + advanced techniques - [[Slides]]() [[Video]]() [[Book]]()
+#### Raspberry Pi5
++ Class 16 - Generative AI at the Edge - SLM (Small Language Models) [[Slides]](00_Curso_Folder/2-Generative_AI/Class_16/16b-GenAI_at_the_Edge-SLMs.pdf) [[Video]](https://youtu.be/cl5RMgo7WLo) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/llm/slm_intro.html)
 + Class 16a - Raspberry Pi 5 Setup [[Slides]](00_Curso_Folder/2-Generative_AI/Class_16/16a-Rasp_5_setup.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_16/Docs/) [[Video]](https://youtu.be/SNWBmtqfQF4) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/setup/setup.html)
-+ Class 16b - Generative AI at the Edge - SLM (Small Language Models) [[Slides]](00_Curso_Folder/2-Generative_AI/Class_16/16b-GenAI_at_the_Edge-SLMs.pdf) [[Video]](https://youtu.be/cl5RMgo7WLo) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/llm/slm_intro.html)
 + Class 17 - SLM with Ollama Review [[Slides]](00_Curso_Folder/2-Generative_AI/Class_17/17-SLM_Ollama_Review.pdf) [[Video]](https://youtu.be/OfbG0o-YuCI) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/llm/slm_intro.html)
 + Class 18 - Ollama with Python [[Slides]](00_Curso_Folder/2-Generative_AI/Class_18/18-Ollama_Python.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_18/Docs/) [[Video]](https://youtu.be/U4rgwxZbrbA) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/llm/slm_intro.html#ollama-python-library)
 + Class 19 - SLM: Optimization Techniques - Function (tools) Calling [[Slides]](00_Curso_Folder/2-Generative_AI/Class_19/19-SLM-Optimization_Techniques-Function_Calling.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_19/Docs/) [[Video]](https://youtu.be/kCN-kT9adoI) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/llm/slm_opt_tech.html)
