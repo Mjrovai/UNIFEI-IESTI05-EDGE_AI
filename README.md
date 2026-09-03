@@ -79,7 +79,7 @@
 
 #### Arduino UNO Q
 + Class 16 - How Generative AI works - SLMs [[Slides]](00_Curso_Folder/4-Generative_AI-UNO-Q/0-Foundations/Ch0-Foundations.pdf) [[Video]](https://youtu.be/43RIDu_mGiA) [[Book]](https://mjrovai.github.io/genai-uno-q/content/foundations/foundations.html)
-+ Class 17 - SLM at the Edge & Arduino UNO Q: the dual-brain architecture [[Slides]]() [[Video]]() [[Book]](https://mjrovai.github.io/genai-uno-q/content/localinf/localinf.html)
++ Class 17 - SLM at the Edge & Arduino UNO Q: the dual-brain architecture [[Video]](https://youtu.be/WpSoM2VrNj8?si=2Rfqj-f1UIv43fb4) [[Book]](https://mjrovai.github.io/genai-uno-q/content/localinf/localinf.html)
 + Class 18 - Arduino UNO Q - Setup walkthrough [[Slides]]() [[Video]]() [[Book]](https://mjrovai.github.io/genai-uno-q/content/setup/setup.html)
 + Class 19 - Running SLMs on the UNO Q [[Slides]]() [[Video]]() [[Book]](https://mjrovai.github.io/genai-uno-q/content/genai/genai.html)
 + Class 20 - Benchmarking and model selection [[Slides]]() [[Video]]() [[Book]]()
