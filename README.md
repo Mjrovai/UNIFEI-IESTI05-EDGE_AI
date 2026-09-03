@@ -78,7 +78,7 @@
 + Class 15 - Text Generation – RNN: The VerneBot [[Slides]](00_Curso_Folder/2-Generative_AI/Class_15/15-Text_Generation_verne_bot.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_15/Docs/) [[Video]](https://youtu.be/MmdZOgvwABE) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/rnn-verne/rnn-verne.html)
 
 #### Arduino UNO Q
-+ Class 16 - How Generative AI works - SLMs [[Slides]]() [[Video]]() [[Book]](https://mjrovai.github.io/genai-uno-q/content/foundations/foundations.html)
++ Class 16 - How Generative AI works - SLMs [[Slides]](00_Curso_Folder/4-Generative_AI-UNO-Q/0-Foundations/Ch0-Foundations.pdf) [[Video]](https://youtu.be/43RIDu_mGiA) [[Book]](https://mjrovai.github.io/genai-uno-q/content/foundations/foundations.html)
 + Class 17 - SLM at the Edge & Arduino UNO Q: the dual-brain architecture [[Slides]]() [[Video]]() [[Book]](https://mjrovai.github.io/genai-uno-q/content/localinf/localinf.html)
 + Class 18 - Arduino UNO Q - Setup walkthrough [[Slides]]() [[Video]]() [[Book]](https://mjrovai.github.io/genai-uno-q/content/setup/setup.html)
 + Class 19 - Running SLMs on the UNO Q [[Slides]]() [[Video]]() [[Book]](https://mjrovai.github.io/genai-uno-q/content/genai/genai.html)
