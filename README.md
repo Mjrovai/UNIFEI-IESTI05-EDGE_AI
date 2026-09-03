@@ -85,7 +85,7 @@
 + Class 20 - Benchmarking and model selection [[Book]](https://mjrovai.github.io/genai-uno-q/content/genai/genai.html#alternative-model-qwen-3.5-2b)
 + Class 21 - Talking to the model from Python [[Book]](https://mjrovai.github.io/genai-uno-q/content/genai/genai.html#talking-to-llama-server-from-python)
 + Class 22 - Multimodal AI at the Edge [[Slides]](00_Curso_Folder/4-Generative_AI-UNO-Q/3-Multimodal-AI/Ch3-Multimodal-AI-at-the-Edge.pdf) [[Video]](https://youtu.be/6EwdZ_JCP0Q) [[Book]](https://mjrovai.github.io/genai-uno-q/content/multimodai/multimodai.html)
-+ Class 23 - SLM optimization techniques - Agentic AI [[Slides]](00_Curso_Folder/4-Generative_AI-UNO-Q/5-Agentic-AI) [[Video]](https://youtu.be/GPj2zQBnaqw) [[Book]](https://mjrovai.github.io/genai-uno-q/content/agenticai/agenticai.html)
++ Class 23 - SLM optimization techniques - Agentic AI [[Slides]](00_Curso_Folder/4-Generative_AI-UNO-Q/5-Agentic-AI/Ch5-Agentic-AI-at-the-Edge.pdf) [[Video]](https://youtu.be/GPj2zQBnaqw) [[Book]](https://mjrovai.github.io/genai-uno-q/content/agenticai/agenticai.html)
 + Class 24 - Building an agent on the UNO Q [[Book]](https://mjrovai.github.io/genai-uno-q/content/agenticai/agenticai.html#designing-the-tool-set)
 + Class 25 - GenAI meets the real world: Physical AI and Bridge RPC (MPU ↔ MCU) [[Slides]](00_Curso_Folder/4-Generative_AI-UNO-Q/4-GenAI-Real-World/Ch4-GenAI-Meets-the-Real-World.pdf) [[Video]](https://youtu.be/M0vQx1sSbrs) [[Book]](https://mjrovai.github.io/genai-uno-q/content/physicalai/physicalai.html)
 + Class 26 - Physical AI project [[Book]](https://mjrovai.github.io/genai-uno-q/content/physicalai/physicalai.html#project-structure-for-a-bridge-flask-slm-app)
