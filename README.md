@@ -89,7 +89,7 @@
 + Class 24 - Building an agent on the UNO Q [[Book]](https://mjrovai.github.io/genai-uno-q/content/agenticai/agenticai.html#designing-the-tool-set)
 + Class 25 - GenAI meets the real world: Physical AI and Bridge RPC (MPU ↔ MCU) [[Slides]](00_Curso_Folder/4-Generative_AI-UNO-Q/4-GenAI-Real-World/Ch4-GenAI-Meets-the-Real-World.pdf) [[Video]](https://youtu.be/M0vQx1sSbrs) [[Book]](https://mjrovai.github.io/genai-uno-q/content/physicalai/physicalai.html)
 + Class 26 - Physical AI project [[Book]](https://mjrovai.github.io/genai-uno-q/content/physicalai/physicalai.html#project-structure-for-a-bridge-flask-slm-app)
-+ Class 27 - RAG at the Edge [[Slides]](00_Curso_Folder/4-Generative_AI-UNO-Q/6-RAG-at-the-Edge/Ch6-RAG-at-the-Edge.pdf) [[Book]](https://mjrovai.github.io/genai-uno-q/content/rag/rag.html)
++ Class 27 - RAG at the Edge [[Slides]](00_Curso_Folder/4-Generative_AI-UNO-Q/6-RAG-at-the-Edge/Ch6-RAG-at-the-Edge.pdf) [[Video]](https://youtu.be/B2YE-YlDOns) [[Book]](https://mjrovai.github.io/genai-uno-q/content/rag/rag.html)
 + Class 28 - Hands-on: RAG application on the UNO Q + advanced techniques [[Book]](https://mjrovai.github.io/genai-uno-q/content/rag/rag.html#the-knowledge-base-a-160-page-who-guideline)
 #### Raspberry Pi5
 + Class 16 - Generative AI at the Edge - SLM (Small Language Models) [[Slides]](00_Curso_Folder/2-Generative_AI/Class_16/16b-GenAI_at_the_Edge-SLMs.pdf) [[Video]](https://youtu.be/cl5RMgo7WLo) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/llm/slm_intro.html)
