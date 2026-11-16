@@ -91,6 +91,8 @@
 + Class 26 - Physical AI project [[Book]](https://mjrovai.github.io/genai-uno-q/content/physicalai/physicalai.html#project-structure-for-a-bridge-flask-slm-app)
 + Class 27 - RAG at the Edge [[Slides]](00_Curso_Folder/4-Generative_AI-UNO-Q/6-RAG-at-the-Edge/Ch6-RAG-at-the-Edge.pdf) [[Video]](https://youtu.be/fzZpUFOH62k) [[Book]](https://mjrovai.github.io/genai-uno-q/content/rag/rag.html)
 + Class 28 - Hands-on: RAG application on the UNO Q + advanced techniques [[Book]](https://mjrovai.github.io/genai-uno-q/content/rag/rag.html#the-knowledge-base-a-160-page-who-guideline)
++ Class 29 - (Optional) Image Classification on the UNO Q [[slides]]() [[Video]]() [[Book]]()
++ Class 30 - (Optional) Object Detection on the UNO Q [[slides]]() [[Video]]() [[Book]]()
 #### Raspberry Pi5
 + Class 16 - Generative AI at the Edge - SLM (Small Language Models) [[Slides]](00_Curso_Folder/2-Generative_AI/Class_16/16b-GenAI_at_the_Edge-SLMs.pdf) [[Video]](https://youtu.be/cl5RMgo7WLo) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/llm/slm_intro.html)
 + Class 16a - Raspberry Pi 5 Setup [[Slides]](00_Curso_Folder/2-Generative_AI/Class_16/16a-Rasp_5_setup.pdf) [[Docs]](00_Curso_Folder/2-Generative_AI/Class_16/Docs/) [[Video]](https://youtu.be/SNWBmtqfQF4) [[Book]](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/raspi/setup/setup.html)
